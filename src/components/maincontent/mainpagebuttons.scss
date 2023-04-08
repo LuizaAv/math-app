@@ -1,0 +1,16 @@
+.changeBtnContainer{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+    button{
+        height: 35px;
+        width: 100px;
+        background: linear-gradient(120deg, rgb(240, 210, 227), rgb(144, 73, 146) 55%, rgb(78, 45, 93), rgb(132, 83, 155) 45%);
+        border-radius: 5px;
+        border: none;
+        cursor: pointer;
+        font-weight: 600;
+    }
+}

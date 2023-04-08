@@ -1,0 +1,17 @@
+.menuMainContainer{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    .burgermenuContainer{
+        height: 60x;
+        width: 50px;
+        .menu{
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+    }
+
+    .menuItem{
+        width: auto;
+    }
+}

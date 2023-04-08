@@ -1,0 +1,17 @@
+.mathItemsContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: auto;
+    width: 400px;
+    height: 700px;
+    margin-top: 5%;
+    .sectionCard {
+        height: 90px;
+        box-shadow: 10px 10px 0 0.3px #e5d2ee;
+        border: 0.5px solid #e5d2ee;
+    }
+    .mathItem{
+
+    }
+}

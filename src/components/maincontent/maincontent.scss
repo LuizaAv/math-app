@@ -1,0 +1,25 @@
+.mathItemsContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: auto;
+    width: 400px;
+    height: auto;
+    a{
+        text-decoration: none;
+        font-size: large;
+        font-weight: 700;
+    }
+    .sectionCard {
+        height: 90px;
+        box-shadow: 10px 10px 0 0.3px rgb(240, 210, 227);
+        background-color: rgb(236, 223, 230);
+        border: 0.5px solid rgb(219, 143, 186);
+        margin-bottom: 7%;
+    }
+    .mathItem{
+        margin-top: 8%;
+        margin-bottom: 2%;
+        color: rgb(78, 45, 93);
+    }
+}

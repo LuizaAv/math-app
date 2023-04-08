@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Manuk",
+      "surename": "Avetisyan",
+      "email": "avetisyan7777@gmail.com",
+      "password": "Manuk1970*",
+      "confirmPass": "Manuk1970*"
+    },
+    {
+      "id": 2,
+      "name": "Emma",
+      "surename": "Avetisyan",
+      "email": "avetisyan7777@gmail.com",
+      "password": "Emma1971*",
+      "confirmPass": "Emma1971*"
+    }    
+  ]
+}

@@ -1,0 +1,13 @@
+
+
+.menuItemsContainer{
+    width: 250px;
+    z-index: 1000;
+    position: absolute;
+    .eachItemMenu{
+        text-align: start;
+    }
+    Link{
+        text-decoration: none;
+    }
+}

@@ -1,0 +1,13 @@
+.navbarContent{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(228, 177, 230) ;
+    border-radius: 8px 8px 0px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    .loginComponent{
+        margin-left: 25%;
+    }
+}
+
